@@ -1,0 +1,13 @@
+main{
+    width: 100%;
+    padding: 20px;
+    margin:auto;
+    margin-top: 100%;
+}
+
+.contenedor__todo{
+    width: 100%;
+    max-width: 800%;
+    margin: auto;
+    position: relative;
+}
